@@ -6,7 +6,6 @@
 - source realsense_env/bin/activate
 - python3 yolo_basic.py
 
-
 <!-- 
 wget https://pjreddie.com/media/files/yolov3.weights
 wget https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
